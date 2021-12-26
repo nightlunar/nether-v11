@@ -1,2 +1,2 @@
 # Nether
-Nether is a discord bot for all sorts of purposes
+Türkçe/English multi-language general bot
